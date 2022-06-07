@@ -63,6 +63,12 @@ code {
   color: white; 
 }
 
+.title {
+  margin-bottom: 0rem;
+  padding-bottom: 0rem;
+}
+
 .subtitle {
-  font-size: 1em;
+  margin-top: 1rem;
+  font-size: 1.7rem;
 }
