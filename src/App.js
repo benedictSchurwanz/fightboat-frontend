@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MainHeader from './components/MainHeader/MainHeader.js'
+import MainHeader from './components/MainHeader'
 
 import './index.css';
 
